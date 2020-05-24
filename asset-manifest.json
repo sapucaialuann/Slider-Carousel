@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Slider-Carousel/static/css/main.92b7c444.chunk.css",
+    "main.js": "/Slider-Carousel/static/js/main.3773515f.chunk.js",
+    "main.js.map": "/Slider-Carousel/static/js/main.3773515f.chunk.js.map",
+    "runtime-main.js": "/Slider-Carousel/static/js/runtime-main.99b740f0.js",
+    "runtime-main.js.map": "/Slider-Carousel/static/js/runtime-main.99b740f0.js.map",
+    "static/js/2.720205c1.chunk.js": "/Slider-Carousel/static/js/2.720205c1.chunk.js",
+    "static/js/2.720205c1.chunk.js.map": "/Slider-Carousel/static/js/2.720205c1.chunk.js.map",
+    "index.html": "/Slider-Carousel/index.html",
+    "precache-manifest.0aca9e28709ce5546c9500b1e27054cb.js": "/Slider-Carousel/precache-manifest.0aca9e28709ce5546c9500b1e27054cb.js",
+    "service-worker.js": "/Slider-Carousel/service-worker.js",
+    "static/css/main.92b7c444.chunk.css.map": "/Slider-Carousel/static/css/main.92b7c444.chunk.css.map",
+    "static/js/2.720205c1.chunk.js.LICENSE.txt": "/Slider-Carousel/static/js/2.720205c1.chunk.js.LICENSE.txt",
+    "static/media/dinosaur.svg": "/Slider-Carousel/static/media/dinosaur.5c543d1a.svg",
+    "static/media/dinosaur1.svg": "/Slider-Carousel/static/media/dinosaur1.f64f2f24.svg",
+    "static/media/dinosaur2.svg": "/Slider-Carousel/static/media/dinosaur2.b6d30e73.svg",
+    "static/media/dinosaur3.svg": "/Slider-Carousel/static/media/dinosaur3.45c05624.svg",
+    "static/media/dinosaur4.svg": "/Slider-Carousel/static/media/dinosaur4.e349b2e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99b740f0.js",
+    "static/js/2.720205c1.chunk.js",
+    "static/css/main.92b7c444.chunk.css",
+    "static/js/main.3773515f.chunk.js"
+  ]
+}
