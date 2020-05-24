@@ -1,0 +1,74 @@
+h2 {
+     font-size: 2.25em;
+     font-family: 'Roboto';
+     color: #666;
+     margin-top: 120px;align-self: center;
+}
+
+.sectionContainer {
+     width: 100%; /*tamanho máximo da tela*/
+     display: flex; /*para o h2 ficar centralizado*/
+     /* overflow: hidden;    para a tela não ficar quebrada */
+     flex-direction: column; /*Para organizar o h2 e o component de slide*/
+     
+     /* border: 1px solid red;  */
+}
+
+.sliderContainer {
+     width: 100%;
+     align-self: center;
+     margin: 0 auto;
+     max-width: 960px;
+     /* border: 1px solid blue; */
+}
+
+/* tag que envolve a imagem */
+.linkLogo {
+     display: flex;
+     justify-content: center;
+     /* border: 1px solid green; */
+}
+
+/* tag de imagem do cliente */
+.logoClientes {
+     align-content: center;
+     max-height: 100px;
+     max-width: 200px;
+     filter: grayscale(100%);
+     transition: .5s;
+
+     /* border: 1px solid red; */
+}
+.logoClientes:hover {
+     filter: grayscale(0);
+     transition: .5s;
+     cursor: pointer;
+}
+
+
+/* classes do react-slick */
+.slick-slide {
+     outline: none;
+}
+
+.slick-slide > div {
+     outline: none;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+.slick-track {
+     display: flex;
+     align-items: center;
+     /* border: 1px solid red; */
+}
+
+.slick-list {
+     margin: 40px 0px;
+}
+
+.slick-slide > div a{
+     display: inherit;
+     outline: none;
+}
